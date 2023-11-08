@@ -2,13 +2,7 @@
 
 **`Web Developer`**
 
-I am an ambitious computer science student with a passion for
-programming. I have a strong foundation in both functional and
-object-oriented programming, and I am currently focusing on web
-development with a keen interest in React.js. I have gained valuable
-commercial experience through freelance projects and working as a
-Junior Web Developer at Grafiduo. I enjoy working collaboratively
-and I am always willing to help others.
+I am an ambitious computer science student in my final semester with a passion for programming. I have a strong foundation in both functional and object-oriented programming.
 ---
 ### Languages and Tools 
 
