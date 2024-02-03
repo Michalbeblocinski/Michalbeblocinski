@@ -21,6 +21,7 @@ I am a full-stack developer who has completed studies and primarily codes in a f
 
 
 <br />
+
 ## Selected My Current Projects
 
 <p float="left">
