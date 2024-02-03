@@ -1,4 +1,4 @@
-# 👋 Hey I'm Michał Bebłociński
+# 👋 Hey I'm Michał 
 
 **`Full Stack Developer`**
 
@@ -25,8 +25,8 @@ I am a full-stack developer who has completed studies and primarily codes in a f
 ## Selected My Current Projects
 
 <p float="left">
-  <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/foodAndYouTs.png" width="49%" /></a>
-  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/FitNoteIT.png" width="49%" /></a>
+  <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/foodAndYouTS.png" width="49%" /></a>
+  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/fit.png" width="49%" /></a>
 </p>
 
 ## Example of a Commercial Project I Worked On
