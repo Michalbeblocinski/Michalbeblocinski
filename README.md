@@ -26,7 +26,7 @@ I am a full-stack developer who has completed studies and primarily codes in a f
 
 <p float="left">
   <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/food.png" width="49%" alt="myPage" /></a>
-  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/fit.png" width="49%" alt="myPage" /></a>
+  <a href="https://github.com/Michalbeblocinski/FitNoteIT/tree/main/packages/FitNoteIT-frontend"><img src="./images/fit.png" width="49%" alt="myPage" /></a>
 </p>
 
 ## Example of a Commercial Project I Worked On
