@@ -1,8 +1,8 @@
-### Michał Bebłociński
+# 👋 Hey I'm Michał Bebłociński
 
-**`Web Developer`**
+**`Full Stack Developer`**
 
-I am an ambitious computer science student in my final semester with a passion for programming. I have a strong foundation in both functional and object-oriented programming.
+I am a full-stack developer who has completed studies and primarily codes in a functional paradigm, but also possesses a strong foundation in object-oriented programming.
 ---
 ### Languages and Tools 
 
