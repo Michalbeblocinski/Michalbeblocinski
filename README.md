@@ -21,3 +21,15 @@ I am a full-stack developer who has completed studies and primarily codes in a f
 
 
 <br />
+## Selected My Current Projects
+
+<p float="left">
+  <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/foodAndYouTs.png" width="49%" /></a>
+  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/FitNoteIT.png" width="49%" /></a>
+</p>
+
+## Example of a Commercial Project I Worked On
+
+<p float="left">
+  <a href="https://podziemnetypy.pl/" target="_blank"><img src="./images/podziemne.png" width="100%" /></a>
+</p>
