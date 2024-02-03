@@ -25,12 +25,12 @@ I am a full-stack developer who has completed studies and primarily codes in a f
 ## Selected My Current Projects
 
 <p float="left">
-  <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/foodAndYouTS.png" width="49%" /></a>
-  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/fit.png" width="49%" /></a>
+  <a href="https://github.com/Michalbeblocinski/foodAndYouTs"><img src="./images/food.png" width="49%" alt="myPage" /></a>
+  <a href="https://github.com/Michalbeblocinski/FitNoteIT"><img src="./images/fit.png" width="49%" alt="myPage" /></a>
 </p>
 
 ## Example of a Commercial Project I Worked On
 
 <p float="left">
-  <a href="https://podziemnetypy.pl/" target="_blank"><img src="./images/podziemne.png" width="100%" /></a>
+  <a href="https://podziemnetypy.pl/" target="_blank"><img src="./images/podziemne.png" width="100%" alt="podziemnetypy"/></a>
 </p>
