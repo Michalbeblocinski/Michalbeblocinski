@@ -1,8 +1,8 @@
 # 👋 Hey I'm Michał 
 
-**`Full Stack Developer`**
+**`Front-end Developer`**
 
-I am a full-stack developer who has completed studies and primarily codes in a functional paradigm, but also possesses a strong foundation in object-oriented programming.
+I am a front-end developer who also writes backend code. I have completed my studies and primarily code in a functional paradigm, but I also possess a strong foundation in object-oriented programming
 ---
 ### Languages and Tools 
 
