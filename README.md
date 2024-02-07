@@ -21,7 +21,7 @@ I am a front-end developer who also writes backend code. I have completed my stu
 <img align="left" alt="PWp" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
 
-<br />
+<br /><br>
 
 ## Selected My Current Projects
 
